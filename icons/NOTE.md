@@ -1,0 +1,1 @@
+# Add your PNG files here that will be used for display on the Chrome Extension toolbar and in the Webstore
